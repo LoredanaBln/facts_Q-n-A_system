@@ -1,0 +1,602 @@
+[
+  {
+    "topic": "Jupiter",
+    "fact": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "topic": "Antarctica",
+    "fact": "Antarctica is the coldest and driest continent on Earth."
+  },
+  {
+    "topic": "Earth",
+    "fact": "Earth is the third planet from the Sun and the only one known to support life."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "Pacific Ocean",
+    "fact": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "topic": "Internet",
+    "fact": "The Internet connects millions of computers globally."
+  },
+  {
+    "topic": "Internet",
+    "fact": "The Internet connects millions of computers globally."
+  },
+  {
+    "topic": "Light",
+    "fact": "Light travels at approximately 299,792 kilometers per second."
+  },
+  {
+    "topic": "Dolphins",
+    "fact": "Dolphins are intelligent marine mammals known for their communication skills."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Mount Everest",
+    "fact": "Mount Everest is the tallest mountain in the world."
+  },
+  {
+    "topic": "Whales",
+    "fact": "Whales are the largest animals on Earth."
+  },
+  {
+    "topic": "Sound",
+    "fact": "Sound is a vibration that travels through a medium such as air."
+  },
+  {
+    "topic": "Sun",
+    "fact": "The Sun is a star at the center of the solar system and provides energy to Earth."
+  },
+  {
+    "topic": "Amazon Rainforest",
+    "fact": "The Amazon Rainforest is the largest tropical rainforest in the world."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Photosynthesis is the process by which plants convert sunlight into energy."
+  },
+  {
+    "topic": "Python",
+    "fact": "Python is a high-level programming language used for web and software development."
+  },
+  {
+    "topic": "Sound",
+    "fact": "Sound is a vibration that travels through a medium such as air."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Gravity is a force that attracts two bodies toward each other."
+  },
+  {
+    "topic": "Battery",
+    "fact": "Batteries store and provide electrical energy."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "DNA",
+    "fact": "DNA carries genetic information used in growth and reproduction."
+  },
+  {
+    "topic": "Recycling",
+    "fact": "Recycling helps reduce waste and conserve natural resources."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Butterflies",
+    "fact": "Butterflies undergo metamorphosis from caterpillars."
+  },
+  {
+    "topic": "Human Brain",
+    "fact": "The human brain contains about 86 billion neurons."
+  },
+  {
+    "topic": "Earth",
+    "fact": "Earth is the third planet from the Sun and the only one known to support life."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Gravity is a force that attracts two bodies toward each other."
+  },
+  {
+    "topic": "Climate Change",
+    "fact": "Climate change refers to long-term shifts in temperatures and weather patterns."
+  },
+  {
+    "topic": "Whales",
+    "fact": "Whales are the largest animals on Earth."
+  },
+  {
+    "topic": "Big Bang",
+    "fact": "The Big Bang theory explains the origin of the universe."
+  },
+  {
+    "topic": "Atoms",
+    "fact": "Atoms are the basic units of matter."
+  },
+  {
+    "topic": "Oceans",
+    "fact": "Oceans regulate Earth's climate and are home to diverse ecosystems."
+  },
+  {
+    "topic": "Battery",
+    "fact": "Batteries store and provide electrical energy."
+  },
+  {
+    "topic": "Wind Energy",
+    "fact": "Wind turbines use wind to generate electricity."
+  },
+  {
+    "topic": "Nile River",
+    "fact": "The Nile is the longest river in the world."
+  },
+  {
+    "topic": "Atoms",
+    "fact": "Atoms are the basic units of matter."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Climate Change",
+    "fact": "Climate change refers to long-term shifts in temperatures and weather patterns."
+  },
+  {
+    "topic": "Moon",
+    "fact": "The Moon is Earth's only natural satellite and affects ocean tides."
+  },
+  {
+    "topic": "Light",
+    "fact": "Light travels at approximately 299,792 kilometers per second."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Saturn",
+    "fact": "Saturn is famous for its prominent ring system."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "Nile River",
+    "fact": "The Nile is the longest river in the world."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Isaac Newton formulated the laws of gravity in the 17th century."
+  },
+  {
+    "topic": "Antarctica",
+    "fact": "Antarctica is the coldest and driest continent on Earth."
+  },
+  {
+    "topic": "Oxygen",
+    "fact": "Oxygen is essential for respiration in most living organisms."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Photosynthesis is the process by which plants convert sunlight into energy."
+  },
+  {
+    "topic": "Mars",
+    "fact": "Mars is known as the Red Planet due to its reddish appearance."
+  },
+  {
+    "topic": "Sharks",
+    "fact": "Sharks have existed for over 400 million years."
+  },
+  {
+    "topic": "AI",
+    "fact": "Artificial Intelligence enables machines to simulate human intelligence."
+  },
+  {
+    "topic": "AI",
+    "fact": "Artificial Intelligence enables machines to simulate human intelligence."
+  },
+  {
+    "topic": "Neptune",
+    "fact": "Neptune is the farthest planet from the Sun."
+  },
+  {
+    "topic": "Mars",
+    "fact": "Mars is known as the Red Planet due to its reddish appearance."
+  },
+  {
+    "topic": "Moon",
+    "fact": "The Moon is Earth's only natural satellite and affects ocean tides."
+  },
+  {
+    "topic": "Saturn",
+    "fact": "Saturn is famous for its prominent ring system."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Python",
+    "fact": "Python is a high-level programming language used for web and software development."
+  },
+  {
+    "topic": "Light",
+    "fact": "Light travels at approximately 299,792 kilometers per second."
+  },
+  {
+    "topic": "Whales",
+    "fact": "Whales are the largest animals on Earth."
+  },
+  {
+    "topic": "Molecules",
+    "fact": "Molecules are groups of atoms bonded together."
+  },
+  {
+    "topic": "Computer",
+    "fact": "A computer processes information using a central processing unit."
+  },
+  {
+    "topic": "Butterflies",
+    "fact": "Butterflies undergo metamorphosis from caterpillars."
+  },
+  {
+    "topic": "Oxygen",
+    "fact": "Oxygen is essential for respiration in most living organisms."
+  },
+  {
+    "topic": "Saturn",
+    "fact": "Saturn is famous for its prominent ring system."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Dolphins",
+    "fact": "Dolphins are intelligent marine mammals known for their communication skills."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Gravity is a force that attracts two bodies toward each other."
+  },
+  {
+    "topic": "Human Brain",
+    "fact": "The human brain contains about 86 billion neurons."
+  },
+  {
+    "topic": "Venus",
+    "fact": "Venus is the hottest planet in our solar system due to its thick atmosphere."
+  },
+  {
+    "topic": "Penguins",
+    "fact": "Penguins are flightless birds that live mostly in the Southern Hemisphere."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Plants use photosynthesis to convert sunlight, carbon dioxide, and water into glucose."
+  },
+  {
+    "topic": "Computer",
+    "fact": "A computer processes information using a central processing unit."
+  },
+  {
+    "topic": "Bees",
+    "fact": "Bees play a vital role in pollination."
+  },
+  {
+    "topic": "Butterflies",
+    "fact": "Butterflies undergo metamorphosis from caterpillars."
+  },
+  {
+    "topic": "Sound",
+    "fact": "Sound is a vibration that travels through a medium such as air."
+  },
+  {
+    "topic": "Dolphins",
+    "fact": "Dolphins are intelligent marine mammals known for their communication skills."
+  },
+  {
+    "topic": "Mars",
+    "fact": "Mars is known as the Red Planet due to its reddish appearance."
+  },
+  {
+    "topic": "Penguins",
+    "fact": "Penguins are flightless birds that live mostly in the Southern Hemisphere."
+  },
+  {
+    "topic": "Python",
+    "fact": "Python is a high-level programming language used for web and software development."
+  },
+  {
+    "topic": "Computer",
+    "fact": "A computer processes information using a central processing unit."
+  },
+  {
+    "topic": "Recycling",
+    "fact": "Recycling helps reduce waste and conserve natural resources."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Isaac Newton formulated the laws of gravity in the 17th century."
+  },
+  {
+    "topic": "Solar Power",
+    "fact": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "topic": "DNA",
+    "fact": "DNA carries genetic information used in growth and reproduction."
+  },
+  {
+    "topic": "Mars",
+    "fact": "Mars is known as the Red Planet due to its reddish appearance."
+  },
+  {
+    "topic": "Internet",
+    "fact": "The Internet connects millions of computers globally."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Isaac Newton formulated the laws of gravity in the 17th century."
+  },
+  {
+    "topic": "Electricity",
+    "fact": "Electricity is the flow of electric charge."
+  },
+  {
+    "topic": "Battery",
+    "fact": "Batteries store and provide electrical energy."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Human Brain",
+    "fact": "The human brain contains about 86 billion neurons."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Plants use photosynthesis to convert sunlight, carbon dioxide, and water into glucose."
+  },
+  {
+    "topic": "Jupiter",
+    "fact": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "topic": "Relativity",
+    "fact": "Albert Einstein's theory of relativity revolutionized physics."
+  },
+  {
+    "topic": "Oceans",
+    "fact": "Oceans regulate Earth's climate and are home to diverse ecosystems."
+  },
+  {
+    "topic": "Elephants",
+    "fact": "Elephants are the largest land mammals on Earth."
+  },
+  {
+    "topic": "Uranus",
+    "fact": "Uranus rotates on its side, unlike any other planet."
+  },
+  {
+    "topic": "Butterflies",
+    "fact": "Butterflies undergo metamorphosis from caterpillars."
+  },
+  {
+    "topic": "Battery",
+    "fact": "Batteries store and provide electrical energy."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "Elephants",
+    "fact": "Elephants are the largest land mammals on Earth."
+  },
+  {
+    "topic": "Amazon Rainforest",
+    "fact": "The Amazon Rainforest is the largest tropical rainforest in the world."
+  },
+  {
+    "topic": "Earth",
+    "fact": "Earth is the third planet from the Sun and the only one known to support life."
+  },
+  {
+    "topic": "Sound",
+    "fact": "Sound is a vibration that travels through a medium such as air."
+  },
+  {
+    "topic": "Molecules",
+    "fact": "Molecules are groups of atoms bonded together."
+  },
+  {
+    "topic": "Cats",
+    "fact": "Cats sleep for about 13 to 16 hours a day."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Plants use photosynthesis to convert sunlight, carbon dioxide, and water into glucose."
+  },
+  {
+    "topic": "Battery",
+    "fact": "Batteries store and provide electrical energy."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Wind Energy",
+    "fact": "Wind turbines use wind to generate electricity."
+  },
+  {
+    "topic": "Earth",
+    "fact": "Earth is the third planet from the Sun and the only one known to support life."
+  },
+  {
+    "topic": "Water",
+    "fact": "About 71% of Earth's surface is covered with water."
+  },
+  {
+    "topic": "Saturn",
+    "fact": "Saturn is famous for its prominent ring system."
+  },
+  {
+    "topic": "Solar Power",
+    "fact": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "topic": "Mount Everest",
+    "fact": "Mount Everest is the tallest mountain in the world."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Plants use photosynthesis to convert sunlight, carbon dioxide, and water into glucose."
+  },
+  {
+    "topic": "Antarctica",
+    "fact": "Antarctica is the coldest and driest continent on Earth."
+  },
+  {
+    "topic": "Antarctica",
+    "fact": "Antarctica is the coldest and driest continent on Earth."
+  },
+  {
+    "topic": "Wind Energy",
+    "fact": "Wind turbines use wind to generate electricity."
+  },
+  {
+    "topic": "Computer",
+    "fact": "A computer processes information using a central processing unit."
+  },
+  {
+    "topic": "Black Holes",
+    "fact": "Black holes are regions of spacetime with gravity so strong that nothing can escape."
+  },
+  {
+    "topic": "Solar Power",
+    "fact": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "topic": "Venus",
+    "fact": "Venus is the hottest planet in our solar system due to its thick atmosphere."
+  },
+  {
+    "topic": "Fossil Fuels",
+    "fact": "Fossil fuels are non-renewable resources formed from ancient organic matter."
+  },
+  {
+    "topic": "Sun",
+    "fact": "The Sun is a star at the center of the solar system and provides energy to Earth."
+  },
+  {
+    "topic": "Uranus",
+    "fact": "Uranus rotates on its side, unlike any other planet."
+  },
+  {
+    "topic": "Sharks",
+    "fact": "Sharks have existed for over 400 million years."
+  },
+  {
+    "topic": "Cats",
+    "fact": "Cats sleep for about 13 to 16 hours a day."
+  },
+  {
+    "topic": "Venus",
+    "fact": "Venus is the hottest planet in our solar system due to its thick atmosphere."
+  },
+  {
+    "topic": "Sun",
+    "fact": "The Sun is a star at the center of the solar system and provides energy to Earth."
+  },
+  {
+    "topic": "Photosynthesis",
+    "fact": "Plants use photosynthesis to convert sunlight, carbon dioxide, and water into glucose."
+  },
+  {
+    "topic": "Dolphins",
+    "fact": "Dolphins are intelligent marine mammals known for their communication skills."
+  },
+  {
+    "topic": "Human Brain",
+    "fact": "The human brain contains about 86 billion neurons."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Gravity is a force that attracts two bodies toward each other."
+  },
+  {
+    "topic": "Earth",
+    "fact": "Earth is the third planet from the Sun and the only one known to support life."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Gravity is a force that attracts two bodies toward each other."
+  },
+  {
+    "topic": "Electricity",
+    "fact": "Electricity is the flow of electric charge."
+  },
+  {
+    "topic": "Jupiter",
+    "fact": "Jupiter is the largest planet in our solar system."
+  },
+  {
+    "topic": "Pacific Ocean",
+    "fact": "The Pacific Ocean is the largest and deepest ocean on Earth."
+  },
+  {
+    "topic": "Nile River",
+    "fact": "The Nile is the longest river in the world."
+  },
+  {
+    "topic": "Gravity",
+    "fact": "Isaac Newton formulated the laws of gravity in the 17th century."
+  },
+  {
+    "topic": "Solar Power",
+    "fact": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "topic": "Computer",
+    "fact": "A computer processes information using a central processing unit."
+  },
+  {
+    "topic": "Climate Change",
+    "fact": "Climate change refers to long-term shifts in temperatures and weather patterns."
+  },
+  {
+    "topic": "Amazon Rainforest",
+    "fact": "The Amazon Rainforest is the largest tropical rainforest in the world."
+  }
+]
